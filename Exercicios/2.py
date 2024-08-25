@@ -1,0 +1,5 @@
+print('Aluno: XXXXXXXXXXXXXXXXXXXXXXXXXXXXX\nNro Matrícula: XXXXXXXXXXX\n-------------------------------------\nPrograma referente ao exercício 1\n-------------------------------------',)
+n1 = int(input('Entre com o 1° número: '))
+n2 = int(input('Entre com o 2° número: '))
+print('O resultado é:', n1/n2)
+print('-------------------------------------')
