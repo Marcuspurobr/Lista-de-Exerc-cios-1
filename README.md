@@ -67,21 +67,21 @@ maior do que 25 ou normal entre 17 e 25.
 mensais, 10% para a renda maior que R$ 3mil até R$ 5mil e 15%
 para os valores acima de R$ 5mil. Ou seja, o imposto pago por
 alguém que recebe R$ 7mil será 0 + R$200 + R$ 300 = R$ 500.
-Os valores se referem a: 0% de R$ 3mil + 10% de 3mil a 5mil
-+ 15% de 5mil a 7mil. Apresente um algoritmo que recebe o
+Os valores se referem a: 0% de R$ 3mil + 10% de 3mil a 5mil + 15% de 5mil a 7mil.
+Apresente um algoritmo que recebe o
 valor da renda mensal e calcula o imposto devido.
 
-23. Use a funções input() e float() para receber o valor total de
+24. Use a funções input() e float() para receber o valor total de
 vendas (em R$), calcule a comissão (5%) sobre a venda e
 escreva na tela formatado.
 
-24. Recebe um número qualquer e mostre em notação científica com
+25. Recebe um número qualquer e mostre em notação científica com
 3 dígitos significativos.
 
-25. Recebe um número inteiro em decimal e mostra o equivalente em
+26. Recebe um número inteiro em decimal e mostra o equivalente em
 hexadecimal
 
-26. Refaça os exercícios anteriores, a partir do 21, usando as
+27. Refaça os exercícios anteriores, a partir do 21, usando as
 funções:
 a) comissao(V, C)
 b) notacaocientifica(num)
