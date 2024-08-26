@@ -7,5 +7,6 @@ while n >= 10:
 while n < 1:
     n *= 10
     i -= 1
-print(f'O número em notação científica é: {n} * 10^({i})')
+n_formatado = "{:.3f}".format(n)
+print(f'O número em notação científica é: {n_formatado} * 10^({i})')
 print('-------------------------------------')
