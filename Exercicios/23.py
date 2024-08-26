@@ -3,7 +3,7 @@ vendas = float(input('Insira quantos reais foram de vendas: '))
 comissao = float(input('Insira o valor da comissão (em porcentagem[número de 1 a 100]): '))
 comissaototal = (vendas*comissao)/100
 round(comissaototal)
-comissaototal_formatado = "{:.2f}".format(comissao)
+comissaototal_formatado = "{:.2f}".format(comissaototal)
 vendas_formatado = "{:.2f}".format(vendas)
 linha1 = (' ------------------------------------------------------- ')
 linha2 = ('|                  Vendas de Agosto                     |')
