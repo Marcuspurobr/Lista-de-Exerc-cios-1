@@ -1,4 +1,4 @@
-# Lista_de_Exerccios_1
+# Lista_de_Exercícios_1
 Exercícios resolvidos da lista passada pelo meu prof de Programação de Computadores da UFU
 
 Caso alguém de fora do curso queira tentar fazer os exercícios, vou deixar os enunciados aqui:
