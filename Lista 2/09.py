@@ -12,7 +12,7 @@ tarefas em memória.
 '''
 
 
-# Não me pergunte, eu também não sei... eu demorei muito... e se cair na prova não faço dnv
+# Não me pergunte, eu também não sei... eu demorei muito... e se cair na prova eu não faço dnv
 
 tarefas_prioridade = []
 tarefas_vencimento = []
@@ -62,8 +62,8 @@ while True:
         print(('Escolha o número da tarefa para editar'))
         print('1 para o primeiro etc.')
         i = int(input(''))
-        for linhas in ListaTarefas(tarefas_prioridade[i-1]):
-            print(linhas)
+        print('')
+        print(Tarefas(tarefas_prioridade[i-1]))
         nova_descrição = input('Insira uma nova descrição para a tarefa: ')
         nova_prioridade = input('Insira uma nova prioridade para a tarefa: ')
         nova_data = input('Insira uma nova data para a tarefa: ')
