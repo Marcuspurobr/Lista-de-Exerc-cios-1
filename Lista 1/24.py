@@ -1,4 +1,4 @@
-print('Aluno: XXXXXXXXXXXXXXXXXXXXXXXXXXXXX\nNro Matrícula: XXXXXXXXXXX\n-------------------------------------\nPrograma referente ao exercício 23\n-------------------------------------',)
+print('Aluno: XXXXXXXXXXXXXXXXXXXXXXXXXXXXX\nNro Matrícula: XXXXXXXXXXX\n-------------------------------------\nPrograma referente ao exercício 24\n-------------------------------------',)
 n = float(input('Insira um número: '))
 i = 0
 while n >= 10:
